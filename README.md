@@ -1,7 +1,7 @@
 
 # Community Resource Navigator
 
-**Convolve 4.0 - MAS Track Submission**  
+**Convolve 4.0  - MAS Track Submission (Round 2: Track Selection & Challenge Submission)**  
 Powered by Qdrant Vector Search Engine
 
 
