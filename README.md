@@ -10,6 +10,7 @@ Powered by Qdrant Vector Search Engine
 ## 🎯 Project Overview
 
 An AI-powered system that helps underserved communities discover relevant social services using semantic search, long-term memory, and personalized recommendations.
+Community Resource Navigator is an AI-powered search tool that helps people find social services like food banks, free healthcare, or job training. Instead of using exact keywords, you can type naturally like "I'm hungry and need help" and it will understand what you mean and find relevant resources. The system remembers your previous searches to give you better suggestions over time, making it easier for underserved communities to discover assistance programs they might not know about.
 
 ### Problem Solved
 40% of eligible families don't access available community resources due to information fragmentation and discovery barriers. This system uses vector search to match people with services based on intent, not keywords.
