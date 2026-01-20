@@ -1,5 +1,4 @@
-# convolve-mas-community-navigator
-AI-powered community resource navigator using Qdrant vector search - Convolve 4.0 MAS Track submission
+
 # Community Resource Navigator
 
 **Convolve 4.0 - MAS Track Submission**  
