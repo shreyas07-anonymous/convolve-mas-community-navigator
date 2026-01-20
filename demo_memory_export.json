@@ -1,0 +1,71 @@
+{
+  "history": [
+    {
+      "timestamp": "2026-01-20T13:04:35.783212",
+      "query": "I lost my job and need help feeding my family",
+      "category_filter": null,
+      "num_results": 3,
+      "top_result": "Daily Bread Food Bank",
+      "top_category": "Food Assistance"
+    },
+    {
+      "timestamp": "2026-01-20T13:04:35.796688",
+      "query": "Free medical checkup without insurance",
+      "category_filter": "Healthcare",
+      "num_results": 3,
+      "top_result": "City Community Health Clinic",
+      "top_category": "Healthcare"
+    },
+    {
+      "timestamp": "2026-01-20T13:04:35.810581",
+      "query": "My landlord is trying to evict me unfairly",
+      "category_filter": null,
+      "num_results": 3,
+      "top_result": "Legal Aid Society",
+      "top_category": "Legal Services"
+    },
+    {
+      "timestamp": "2026-01-20T13:04:35.821920",
+      "query": "Want to get my GED and learn English",
+      "category_filter": "Education",
+      "num_results": 3,
+      "top_result": "Adult Learning Center",
+      "top_category": "Education"
+    },
+    {
+      "timestamp": "2026-01-20T13:04:35.833025",
+      "query": "Struggling with depression and anxiety",
+      "category_filter": null,
+      "num_results": 3,
+      "top_result": "Mental Health Crisis Line",
+      "top_category": "Healthcare"
+    },
+    {
+      "timestamp": "2026-01-20T13:04:35.848581",
+      "query": "I lost my job and need help feeding my family Free medical checkup without insurance My landlord is trying to evict me unfairly Want to get my GED and learn English Struggling with depression and anxiety",
+      "category_filter": null,
+      "num_results": 8,
+      "top_result": "Legal Aid Society",
+      "top_category": "Legal Services"
+    },
+    {
+      "timestamp": "2026-01-20T13:04:35.859037",
+      "query": "need medical help",
+      "category_filter": "Healthcare",
+      "num_results": 3,
+      "top_result": "Mental Health Crisis Line",
+      "top_category": "Healthcare"
+    }
+  ],
+  "profile": {
+    "frequent_categories": {
+      "Food Assistance": 1,
+      "Healthcare": 3,
+      "Legal Services": 2,
+      "Education": 1
+    },
+    "search_count": 7,
+    "first_interaction": "2026-01-20T13:04:35.772350"
+  },
+  "export_time": "2026-01-20T13:04:35.860060"
+}
