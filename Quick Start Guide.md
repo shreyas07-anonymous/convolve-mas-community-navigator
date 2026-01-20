@@ -2,7 +2,9 @@
 
 **Convolve 4.0 - MAS Track Submission**  
 Powered by Qdrant Vector Search Engine
-*BY TEAM: FIRST ORDER*
+
+
+**BY TEAM: FIRST ORDER**
 ## 🎯 Project Overview
 
 An AI-powered system that helps underserved communities discover relevant social services using semantic search, long-term memory, and personalized recommendations.
@@ -300,3 +302,4 @@ For technical issues:
 **Built with ❤️ for Convolve 4.0**  
 
 *Making community resources accessible through AI*
+
